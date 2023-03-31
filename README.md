@@ -1,1 +1,1 @@
-# Tecnicas-e-ferramentas-para-gestao-de-projetos-e-produtos
+# Técnicas e ferramentas para gestão de projetos e produtos
